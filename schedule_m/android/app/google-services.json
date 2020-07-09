@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348945634743",
+    "firebase_url": "https://diplomapp-dfb7a.firebaseio.com",
+    "project_id": "diplomapp-dfb7a",
+    "storage_bucket": "diplomapp-dfb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348945634743:android:c6dd3b2e65cdaee1654432",
+        "android_client_info": {
+          "package_name": "com.example.schedule_m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348945634743-d08rvpll8uaaik8vqlsg067ummbm2ocb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCggJcHUzUsZPxKjhMHvlPBPbzlaPsCP8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348945634743-d08rvpll8uaaik8vqlsg067ummbm2ocb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
